@@ -1,0 +1,21 @@
+﻿  sim.c
+c:\users\manso\desktop\111\isa208453456\project1_208453456_207063090\project1_208453456_207063090\sim\sim\sim.c(43): warning C4047: 'function': 'char *' differs in levels of indirection from 'char *[500]'
+c:\users\manso\desktop\111\isa208453456\project1_208453456_207063090\project1_208453456_207063090\sim\sim\sim.c(43): warning C4024: 'fgets': different types for formal and actual parameter 1
+c:\users\manso\desktop\111\isa208453456\project1_208453456_207063090\project1_208453456_207063090\sim\sim\sim.c(45): warning C4047: 'function': 'const char *' differs in levels of indirection from 'char *[500]'
+c:\users\manso\desktop\111\isa208453456\project1_208453456_207063090\project1_208453456_207063090\sim\sim\sim.c(45): warning C4024: 'strcpy': different types for formal and actual parameter 2
+c:\users\manso\desktop\111\isa208453456\project1_208453456_207063090\project1_208453456_207063090\sim\sim\sim.c(59): warning C4013: 'strtol' undefined; assuming extern returning int
+c:\users\manso\desktop\111\isa208453456\project1_208453456_207063090\project1_208453456_207063090\sim\sim\sim.c(132): warning C4047: '==': 'char *' differs in levels of indirection from 'int'
+c:\users\manso\desktop\111\isa208453456\project1_208453456_207063090\project1_208453456_207063090\sim\sim\sim.c(235): warning C4477: 'fprintf' : format string '%08x' requires an argument of type 'unsigned int', but variadic argument 2 has type 'int *'
+c:\users\manso\desktop\111\isa208453456\project1_208453456_207063090\project1_208453456_207063090\sim\sim\sim.c(278): warning C4477: 'fprintf' : format string '%08x' requires an argument of type 'unsigned int', but variadic argument 2 has type 'int *'
+c:\users\manso\desktop\111\isa208453456\project1_208453456_207063090\project1_208453456_207063090\sim\sim\sim.c(381): warning C4047: 'function': 'int *' differs in levels of indirection from 'int'
+c:\users\manso\desktop\111\isa208453456\project1_208453456_207063090\project1_208453456_207063090\sim\sim\sim.c(381): warning C4024: 'Update_Leds': different types for formal and actual parameter 2
+c:\users\manso\desktop\111\isa208453456\project1_208453456_207063090\project1_208453456_207063090\sim\sim\sim.c(393): warning C4047: 'function': 'int *' differs in levels of indirection from 'int'
+c:\users\manso\desktop\111\isa208453456\project1_208453456_207063090\project1_208453456_207063090\sim\sim\sim.c(393): warning C4024: 'Update_Display7seg': different types for formal and actual parameter 3
+c:\users\manso\desktop\111\isa208453456\project1_208453456_207063090\project1_208453456_207063090\sim\sim\sim.c(415): warning C4047: 'function': 'int *' differs in levels of indirection from 'int **'
+c:\users\manso\desktop\111\isa208453456\project1_208453456_207063090\project1_208453456_207063090\sim\sim\sim.c(415): warning C4024: 'UpdateDisk_For_ReadOrWrite': different types for formal and actual parameter 1
+c:\users\manso\desktop\111\isa208453456\project1_208453456_207063090\project1_208453456_207063090\sim\sim\sim.c(415): warning C4133: 'function': incompatible types - from 'char (*)[128]' to 'int (*)[128]'
+c:\users\manso\desktop\111\isa208453456\project1_208453456_207063090\project1_208453456_207063090\sim\sim\sim.c(591): warning C4133: 'function': incompatible types - from 'int [128][128]' to 'char (*)[128]'
+c:\users\manso\desktop\111\isa208453456\project1_208453456_207063090\project1_208453456_207063090\sim\sim\sim.c(455): warning C4047: 'initializing': 'char' differs in levels of indirection from 'char [1]'
+c:\users\manso\desktop\111\isa208453456\project1_208453456_207063090\project1_208453456_207063090\sim\sim\sim.c(110): warning C4715: 'Decode_Regester': not all control paths return a value
+c:\users\manso\desktop\111\isa208453456\project1_208453456_207063090\project1_208453456_207063090\sim\sim\sim.c(160): warning C4715: 'Decode_Opcode': not all control paths return a value
+  sim.vcxproj -> C:\Users\manso\Desktop\111\ISA208453456\project1_208453456_207063090\project1_208453456_207063090\sim\Debug\sim.exe

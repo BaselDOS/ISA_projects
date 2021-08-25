@@ -1,0 +1,2 @@
+Total cycles ammount nedded is: 23 [Cycles]
+ 

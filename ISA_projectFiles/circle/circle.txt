@@ -1,0 +1,14 @@
+int r=0;
+int i=0;
+int j=0;
+for (r;r<R;r++)
+for (i;i<287;i++)
+   for (j;j<352;j++)
+{
+if ((x*x+y*y-r*r)==0)
+ out 255 screen[x,y]
+}
+
+
+x0=175
+y0=143

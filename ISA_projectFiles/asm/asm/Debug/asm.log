@@ -1,0 +1,12 @@
+﻿  asm.c
+c:\users\manso\desktop\project1_208204859_211712823\asm\asm\asm.c(49): warning C4013: 'strtol' undefined; assuming extern returning int
+c:\users\manso\desktop\project1_208204859_211712823\asm\asm\asm.c(250): warning C4477: 'sscanf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'char **'
+c:\users\manso\desktop\project1_208204859_211712823\asm\asm\asm.c(251): warning C4047: '==': 'char *[500]' differs in levels of indirection from 'int'
+c:\users\manso\desktop\project1_208204859_211712823\asm\asm\asm.c(253): warning C4047: 'function': 'const char *' differs in levels of indirection from 'char *[500]'
+c:\users\manso\desktop\project1_208204859_211712823\asm\asm\asm.c(253): warning C4024: 'strcmp': different types for formal and actual parameter 1
+c:\users\manso\desktop\project1_208204859_211712823\asm\asm\asm.c(264): warning C4047: 'function': 'char *' differs in levels of indirection from 'char *[500]'
+c:\users\manso\desktop\project1_208204859_211712823\asm\asm\asm.c(264): warning C4024: 'checkOpcode': different types for formal and actual parameter 1
+c:\users\manso\desktop\project1_208204859_211712823\asm\asm\asm.c(272): warning C4047: 'function': 'char *' differs in levels of indirection from 'char *[500]'
+c:\users\manso\desktop\project1_208204859_211712823\asm\asm\asm.c(272): warning C4024: 'opcodeprint': different types for formal and actual parameter 2
+c:\users\manso\desktop\project1_208204859_211712823\asm\asm\asm.c(97): warning C4715: 'checkReg': not all control paths return a value
+  asm.vcxproj -> C:\Users\manso\Desktop\project1_208204859_211712823\asm\Debug\asm.exe

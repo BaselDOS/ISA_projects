@@ -1,0 +1,2 @@
+cycles time is:0
+ total amount of instructions is:0

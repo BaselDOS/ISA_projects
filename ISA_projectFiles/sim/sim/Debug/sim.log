@@ -1,0 +1,22 @@
+﻿  sim.c
+c:\users\manso\desktop\project1_208204859_211712823\sim\sim\sim.c(140): warning C4047: '=': 'int' differs in levels of indirection from 'char *'
+c:\users\manso\desktop\project1_208204859_211712823\sim\sim\sim.c(181): warning C4047: 'function': 'int *' differs in levels of indirection from 'int'
+c:\users\manso\desktop\project1_208204859_211712823\sim\sim\sim.c(181): warning C4024: 'writeleds': different types for formal and actual parameter 2
+c:\users\manso\desktop\project1_208204859_211712823\sim\sim\sim.c(186): warning C4550: expression evaluates to a function which is missing an argument list
+c:\users\manso\desktop\project1_208204859_211712823\sim\sim\sim.c(246): warning C4047: '=': 'int' differs in levels of indirection from 'char *'
+c:\users\manso\desktop\project1_208204859_211712823\sim\sim\sim.c(285): warning C4047: 'function': 'int *' differs in levels of indirection from 'int'
+c:\users\manso\desktop\project1_208204859_211712823\sim\sim\sim.c(285): warning C4024: 'writeleds': different types for formal and actual parameter 2
+c:\users\manso\desktop\project1_208204859_211712823\sim\sim\sim.c(312): warning C4013: 'strtol' undefined; assuming extern returning int
+c:\users\manso\desktop\project1_208204859_211712823\sim\sim\sim.c(326): warning C4477: 'fprintf' : format string '%08x' requires an argument of type 'unsigned int', but variadic argument 2 has type 'int *'
+c:\users\manso\desktop\project1_208204859_211712823\sim\sim\sim.c(474): warning C4047: 'function': 'char *' differs in levels of indirection from 'char *[500]'
+c:\users\manso\desktop\project1_208204859_211712823\sim\sim\sim.c(474): warning C4024: 'fgets': different types for formal and actual parameter 1
+c:\users\manso\desktop\project1_208204859_211712823\sim\sim\sim.c(478): warning C4047: 'function': 'const char *' differs in levels of indirection from 'char *[500]'
+c:\users\manso\desktop\project1_208204859_211712823\sim\sim\sim.c(478): warning C4024: 'strcpy': different types for formal and actual parameter 2
+c:\users\manso\desktop\project1_208204859_211712823\sim\sim\sim.c(499): warning C4477: 'fprintf' : format string '%03x' requires an argument of type 'unsigned int', but variadic argument 1 has type 'int *'
+c:\users\manso\desktop\project1_208204859_211712823\sim\sim\sim.c(694): warning C4048: different array subscripts: 'char (*)[3]' and 'char [128][9]'
+c:\users\manso\desktop\project1_208204859_211712823\sim\sim\sim.c(701): warning C4048: different array subscripts: 'char (*)[3]' and 'char [128][9]'
+c:\users\manso\desktop\project1_208204859_211712823\sim\sim\sim.c(718): warning C4048: different array subscripts: 'int (*)[3]' and 'char [128][9]'
+c:\users\manso\desktop\project1_208204859_211712823\sim\sim\sim.c(305): warning C4715: 'opcodeImm': not all control paths return a value
+c:\users\manso\desktop\project1_208204859_211712823\sim\sim\sim.c(384): warning C4715: 'checkReg': not all control paths return a value
+c:\users\manso\desktop\project1_208204859_211712823\sim\sim\sim.c(438): warning C4715: 'checkopcode': not all control paths return a value
+  sim.vcxproj -> C:\Users\manso\Desktop\project1_208204859_211712823\sim\Debug\sim.exe

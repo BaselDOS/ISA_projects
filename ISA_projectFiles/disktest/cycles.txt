@@ -1,0 +1,2 @@
+cycles time is:44
+ total amount of instructions is:25
